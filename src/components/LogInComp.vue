@@ -48,7 +48,7 @@ export default {
       );
       
 
-      if ((result.data > 0)) {
+      if ((result.statusText == "OK")) {
           console.log(result.data);
         localStorage.setItem("user-info", JSON.stringify(result.data));
         this.$router.push({ path: "/home" });

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Hashan Danushka",
+      "email": "hashand379@gmail.com",
+      "password": "iliketoswim",
+      "id": 1
+    },
+    {
+      "name": "Madhumini",
+      "email": "madhumini@gmail.com",
+      "password": "iliketoswim",
+      "id": 2
+    }
+  ]
+}
